@@ -1,2 +1,2 @@
-# caculaot1
+# caculator1
 Basic Calculator
